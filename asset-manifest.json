@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rdf-scribe/static/css/main.52f5eb38.css",
-    "main.js": "/rdf-scribe/static/js/main.9665f7b7.js",
+    "main.css": "/rdf-scribe/static/css/main.2c1de441.css",
+    "main.js": "/rdf-scribe/static/js/main.1c88a3f8.js",
     "static/js/496.3fb8b6dd.chunk.js": "/rdf-scribe/static/js/496.3fb8b6dd.chunk.js",
     "index.html": "/rdf-scribe/index.html",
-    "main.52f5eb38.css.map": "/rdf-scribe/static/css/main.52f5eb38.css.map",
-    "main.9665f7b7.js.map": "/rdf-scribe/static/js/main.9665f7b7.js.map",
+    "main.2c1de441.css.map": "/rdf-scribe/static/css/main.2c1de441.css.map",
+    "main.1c88a3f8.js.map": "/rdf-scribe/static/js/main.1c88a3f8.js.map",
     "496.3fb8b6dd.chunk.js.map": "/rdf-scribe/static/js/496.3fb8b6dd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.52f5eb38.css",
-    "static/js/main.9665f7b7.js"
+    "static/css/main.2c1de441.css",
+    "static/js/main.1c88a3f8.js"
   ]
 }
